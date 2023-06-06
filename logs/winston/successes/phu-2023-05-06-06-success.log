@@ -1,0 +1,6 @@
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-05T04:39:57.836Z'
+}
