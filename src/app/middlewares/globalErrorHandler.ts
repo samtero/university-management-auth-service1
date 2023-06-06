@@ -3,8 +3,13 @@ import { IGenericErrorMessage } from '../../interfaces/error'
 import handleValidationError from '../../errors/handleValidationError'
 import ApiError from '../../errors/ApiError'
 import config from '../../config'
+import { errorlogger } from '../../shared/logger'
 
 const globalErrorHandeler: ErrorRequestHandler = (error, req, res, next) => {
+  config.env === 'developpment'
+    ? console.log('globalErrorHandler ~', error)
+    : errorlogger.error('globalErrorHandeler ~', error)
+
   let statusCode = 500
   let message = 'Something went wrong!'
   let errorMessages: IGenericErrorMessage[] = []

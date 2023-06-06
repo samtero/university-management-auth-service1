@@ -1,4 +1,4 @@
-import { RequestHandler } from 'express'
+import { RequestHandler } from 'express-serve-static-core'
 import { UserService } from './user.service'
 
 const createUser: RequestHandler = async (req, res, next) => {
