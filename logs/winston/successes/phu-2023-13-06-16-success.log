@@ -1,0 +1,43 @@
+Tue Jun 13 2023 16:7:10 } [PH] info: SIGTERM is received
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T14:08:38.231Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T14:08:38.240Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T14:09:19.781Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T14:09:19.793Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T14:16:41.204Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T14:16:41.212Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-13T14:20:40.801Z'
+}

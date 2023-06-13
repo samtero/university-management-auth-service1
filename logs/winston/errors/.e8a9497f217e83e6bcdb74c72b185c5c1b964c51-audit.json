@@ -29,6 +29,11 @@
             "date": 1686169201603,
             "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/errors/phu-2023-07-06-22-error.log",
             "hash": "5f1cd36d0204b4104e6f485c83715bac689c6e2ad1aa9132affe8eb7731940a0"
+        },
+        {
+            "date": 1686665317058,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/errors/phu-2023-13-06-16-error.log",
+            "hash": "2287e5e44f27a9945ded30ad8391a530cf407f907b672c5b2c8a1de9a957eeef"
         }
     ],
     "hashType": "sha256"
