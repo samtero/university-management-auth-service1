@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/.091a743dd954d14a1856e593f9b10890e4b12dcd-audit.json",
+    "files": [
+        {
+            "date": 1685862122358,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-04-06-09-error.log",
+            "hash": "27c906881a8f60e33cf393f960ae6ad9b87af084cbeda6aa6601e11be583f5a5"
+        },
+        {
+            "date": 1685866251506,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-04-06-10-error.log",
+            "hash": "bfa2df7cd49be19af62a644867efa2e651cefa8dc26b6c77acdd9d2ed892658f"
+        },
+        {
+            "date": 1685869712451,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-04-06-11-error.log",
+            "hash": "195994f4cb3e68ba5ba98b353c748ed744a8b9636331d28d4b7cdc2a4ea1ff70"
+        },
+        {
+            "date": 1685939997398,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-05-06-06-error.log",
+            "hash": "dbf720fee67a2d0fd985086d5c367942d0d4691f2b228bc561ad505a12e4c73f"
+        },
+        {
+            "date": 1685941259368,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-05-06-07-error.log",
+            "hash": "c487382f408226c8c3cf06cb605b6b1ff48b6be87cebf6ada6d332231554f7cb"
+        },
+        {
+            "date": 1686026169311,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-06-06-06-error.log",
+            "hash": "41e686ee710f61e8e8f42a0f2db85d47605998722b667caaf7f968b9a9262131"
+        },
+        {
+            "date": 1686027627829,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-06-06-07-error.log",
+            "hash": "1333b05008f614118314a5fa488ceb3ccd68b4a69f94e84937e7cc8890dca07a"
+        }
+    ],
+    "hashType": "sha256"
+}
