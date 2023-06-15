@@ -1,0 +1,59 @@
+{Wed Jun 14 2023 22:38:5} [PH] error:globalErrorHandeler ~ [
+  {
+    "received": "0+",
+    "code": "invalid_enum_value",
+    "options": [
+      "A+",
+      "A-",
+      "B+",
+      "B-",
+      "AB+",
+      "AB-",
+      "O+",
+      "O-"
+    ],
+    "path": [
+      "body",
+      "student",
+      "bloodGroup"
+    ],
+    "message": "Invalid enum value. Expected 'A+' | 'A-' | 'B+' | 'B-' | 'AB+' | 'AB-' | 'O+' | 'O-', received '0+'"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "academicDepartment"
+    ],
+    "message": "Academic department is required"
+  }
+]
+{Wed Jun 14 2023 22:40:48} [PH] error:globalErrorHandeler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "academicDepartment"
+    ],
+    "message": "Academic department is required"
+  }
+]
+{Wed Jun 14 2023 22:44:58} [PH] error:globalErrorHandeler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "student",
+      "academicDepartment"
+    ],
+    "message": "Academic department is required"
+  }
+]

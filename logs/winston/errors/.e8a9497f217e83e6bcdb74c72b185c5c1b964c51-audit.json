@@ -34,6 +34,26 @@
             "date": 1686665317058,
             "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/errors/phu-2023-13-06-16-error.log",
             "hash": "2287e5e44f27a9945ded30ad8391a530cf407f907b672c5b2c8a1de9a957eeef"
+        },
+        {
+            "date": 1686732343377,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/errors/phu-2023-14-06-10-error.log",
+            "hash": "462104e37209c2d8fecf648777cb62e3b9142881d4466d79e999b1f7c5afba79"
+        },
+        {
+            "date": 1686733261038,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/errors/phu-2023-14-06-11-error.log",
+            "hash": "6de650f9fa9d6d324d2c36cfb55d42255b8bcecc866175aaa608567fe1ba52ee"
+        },
+        {
+            "date": 1686772744454,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/errors/phu-2023-14-06-21-error.log",
+            "hash": "9e09c2c1894762c47bf88cca84aa13ee3f9f86902ecc434eb07f86ff8c68fdb7"
+        },
+        {
+            "date": 1686775068349,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/errors/phu-2023-14-06-22-error.log",
+            "hash": "ac332f7f065fc2716426c7be29e436decc0c7daad8c2a9f90d9bcad20a9254b3"
         }
     ],
     "hashType": "sha256"

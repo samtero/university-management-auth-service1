@@ -1,0 +1,108 @@
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:01:02.451Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:01:02.467Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:03:02.193Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:03:11.536Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:03:11.547Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:06:53.478Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:07:01.713Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:07:01.725Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:08:33.055Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:09:26.557Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:09:26.571Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:13:26.690Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:16:37.806Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:16:37.817Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:19:26.021Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:19:42.442Z'
+}
+{
+  message: 'Application is listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:19:42.453Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-14T09:29:02.227Z'
+}
