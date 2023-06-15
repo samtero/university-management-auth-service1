@@ -1,0 +1,175 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/.c621e49fa49b267e6682575836e70d82afc3b911-audit.json",
+    "files": [
+        {
+            "date": 1685862122355,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-04-06-09-success.log",
+            "hash": "3d11651a0a8b1ae7a463c7625a133d2aa046af23ba94ae5d3be2ad5af7439c7a"
+        },
+        {
+            "date": 1685866251503,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-04-06-10-success.log",
+            "hash": "fa9b1daec83352f48a6ba13fd6a904ba39d436f19320bcbede8330a2b8f813dd"
+        },
+        {
+            "date": 1685869712448,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-04-06-11-success.log",
+            "hash": "1ed6e5591211f7f537747934a9ac8994974d2a1b0be0ab7a051e13fe040aa130"
+        },
+        {
+            "date": 1685939997395,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-05-06-06-success.log",
+            "hash": "5556d69361be66cc6305cb7feef4a864356587085eae6a5734c17a59bf121b1e"
+        },
+        {
+            "date": 1685941259364,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-05-06-07-success.log",
+            "hash": "59b0568aa8615cfadfbdf82ecc28d1c4c7cc3dd29c0f66d9066d09ef3ef1eef4"
+        },
+        {
+            "date": 1686026169304,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-06-06-06-success.log",
+            "hash": "67c364e9cd683465d6973f2e26f6fb1fb54d0d71123b5f87baa83f892733c032"
+        },
+        {
+            "date": 1686027627825,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-06-06-07-success.log",
+            "hash": "2ec627e02460ab8def7e112b3039afce4071017bab07fe6afc924dabfd544f56"
+        },
+        {
+            "date": 1686079199392,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-06-06-21-success.log",
+            "hash": "8eac29f5c55e93975df9a34891416d871de023900f39bcd42eebc9d5f994c9c3"
+        },
+        {
+            "date": 1686081691426,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-06-06-22-success.log",
+            "hash": "64c3f85a0bc840f120a9814df9eb909e0631acc7e14403058ab64ef381f4e1f9"
+        },
+        {
+            "date": 1686087805196,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-06-06-23-success.log",
+            "hash": "82cedae53fa7a0612a23258dd1978926bd71bff53082a7a92665568f763408c9"
+        },
+        {
+            "date": 1686112366060,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-07-06-06-success.log",
+            "hash": "e6342922a03ba13e09b0468372ea0e8f0e793f0661fd2cc2cdb1ed92b1a836d3"
+        },
+        {
+            "date": 1686169201600,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-07-06-22-success.log",
+            "hash": "62e3402f66671e6522ed2e893877019abb49b1b0d50f2c55e9b652a30d3c33fb"
+        },
+        {
+            "date": 1686201476187,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-08-06-07-success.log",
+            "hash": "ec9815c6afc9fbe582d763c4b4e06af7e9e34e7f749bd042c21dce8047e99c7c"
+        },
+        {
+            "date": 1686286292077,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-09-06-06-success.log",
+            "hash": "8ed9bd528501bf38358e41cd344193db11b9fb7bf629f6c72ab161365538013f"
+        },
+        {
+            "date": 1686287006656,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-09-06-07-success.log",
+            "hash": "7ac467f4f262f4c730c5c3b8aa79cfe5629ef1cb573320bef0adfd3942589400"
+        },
+        {
+            "date": 1686314131644,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-09-06-14-success.log",
+            "hash": "ecf456daf19b1981d0a377368afe5fb01ee66e02299058f5983f650bba3e97e6"
+        },
+        {
+            "date": 1686370182260,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-10-06-06-success.log",
+            "hash": "2c5fdd4c5e727ee0e9a3d706b636daee472f10fce9bc8e3bbaf69a0a9a255af5"
+        },
+        {
+            "date": 1686373463885,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-10-06-07-success.log",
+            "hash": "a203055e9b43e6ea128633c8f6a098a23bf2077a8e178ebbe42f6ab13249c348"
+        },
+        {
+            "date": 1686376832718,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-10-06-08-success.log",
+            "hash": "beab1ff2c38502a958eecccd737044c62d6cebfda5c0aa4cd96de7480d07cd81"
+        },
+        {
+            "date": 1686459838009,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-11-06-07-success.log",
+            "hash": "6dfba5c2895b19873de2b0eec585fc6dde1c78e2703a4dafa572a8b9d7537e59"
+        },
+        {
+            "date": 1686465694545,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-11-06-08-success.log",
+            "hash": "f720346250f5f6a198351e4140a4d7097eae992576594431fb6f12e65746abc4"
+        },
+        {
+            "date": 1686467066604,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-11-06-09-success.log",
+            "hash": "88af6c1c14890c1bda848291da9cde8da090c5db6c47e392c1eddd1f9a14123a"
+        },
+        {
+            "date": 1686649155233,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-13-06-11-success.log",
+            "hash": "8d693b6c0116164c81b184ae15b3c4b43d3bd907dac8f1b32356eb25b3322f93"
+        },
+        {
+            "date": 1686650735270,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-13-06-12-success.log",
+            "hash": "b44ad3868f2a1a3680bb53feea1b83c0b276e119586c52a221f91774e1bfbd33"
+        },
+        {
+            "date": 1686654534323,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-13-06-13-success.log",
+            "hash": "f30ee92606d49c2940169f8215d6c771657d3049f952888720bfb0796ee54b96"
+        },
+        {
+            "date": 1686657870439,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-13-06-14-success.log",
+            "hash": "29132ccfecfc58446fddf583fbf7ba9de1334d8349785dd1c52ef619181e2dc9"
+        },
+        {
+            "date": 1686662097066,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-13-06-15-success.log",
+            "hash": "690933c71b91a14bdededc38b277986f306c4f625288cf27f034588f3200abfc"
+        },
+        {
+            "date": 1686665230469,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-13-06-16-success.log",
+            "hash": "cbdeedaba0b20208bb9bafedd3d4faad18322f59704ff317b0ff1f4a0050a01d"
+        },
+        {
+            "date": 1686717160053,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-14-06-06-success.log",
+            "hash": "f50fc8d89d865c4ed573dfa9126fd8dee882ef8a945caaf65936d96fbc8d8bb2"
+        },
+        {
+            "date": 1686732343372,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-14-06-10-success.log",
+            "hash": "6802f385ea108b9e5d3525405958e43b1ca68eda4641cbf98dad8eed8479dc2e"
+        },
+        {
+            "date": 1686733261034,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-14-06-11-success.log",
+            "hash": "628e50ea7059b10c5bd16a8efe31644a0ef5d16e2f661c4909b081aaed12e7cb"
+        },
+        {
+            "date": 1686772744450,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-14-06-21-success.log",
+            "hash": "7ee529d98d7496de0d31b8a69bf9525910c3b7baa9c349212d3f74aebf06393f"
+        },
+        {
+            "date": 1686775068345,
+            "name": "/home/rozario/Phero/university-management-auth-service/logs/winston/successes/phu-2023-14-06-22-success.log",
+            "hash": "7dc6e699aab6b4da878a4578e6437624139362b1f94f8c9bfb7ff4f5712574f6"
+        }
+    ],
+    "hashType": "sha256"
+}
